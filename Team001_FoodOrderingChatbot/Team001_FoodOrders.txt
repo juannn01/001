@@ -1,0 +1,128 @@
+Do you have any recommendations?
+You can try the nasi lemak and satay from Malay stall. 
+What would you recommend?
+I would suggest roti canai and teh tarik panas from Mamak stall. They are a perfect match!
+Any suggestions?
+I would suggest roti canai and teh tarik panas from Mamak stall. They are a perfect match!
+Which would you recommend?
+You can try the nasi lemak and satay from Malay stall. 
+Which would you suggest?
+If you're craving Japanese cuisine, teriyaki chicken bento and chawanmushi will be your best choice!
+Anything I can help?
+I want to make an order.
+Sure, can I have your order please?
+Suggestions please?
+Iced mocha and iced latte are the signature drinks in beverage stall.
+What would you suggest?
+Tteokbokki and Kimchi Fried Rice are the best selling food in Korean stall.
+Any other suggestions?
+Tteokbokki and Kimchi Fried Rice are the best selling food in Korean stall.
+Other recommendations?
+If you're craving Japanese cuisine, teriyaki chicken bento and chawanmushi will be your best choice!
+What are the stalls available?
+Malay, Mamak, Beverage, Korean, Japanese
+Got what stalls
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+What menu do you have
+Malay, Mamak, Beverage, Korean, Japanese
+What menu are there
+Malay, Mamak, Beverage, Korean, Japanese
+What stalls are there?
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+What do you have?
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+What food do you sell?
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+What food do you have?
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+What food do you serve?
+There are Mamak, Malay, Beverage, Japanese, Korean stalls
+I want to see the menu
+Sure, which stall's menu would you like to see?
+Menu please.
+Type the name of stall to look at its menu.
+Can I see the menu?
+Sure, which menu do you want to have a look?
+Show me the menu.
+Sure, you may type the name of the stall for the menu.
+I want the menu
+Sure, please enter the name of the stall.
+Can I have the menu?
+Sure, please enter the name of the stall.
+Can I look at the menu?
+Sure, which stall's menu would you like to see?
+I would like to order food
+Sure, which menu do you want to have a look?
+I want to order food
+Sure, which menu do you want to have a look?
+I want to buy food
+Sure, which stall's menu would you like to see?
+Is there a menu?
+Yes, which stall's menu would you like to see?
+Can you show me the menu?
+Sure, which menu do you want to have a look?
+Can I see other menu?
+Sure, which menu do you want to have a look?
+I want to see other menu
+Sure, which menu do you want to have a look?
+can i see other menu
+Sure, which menu do you want to have a look?
+I would like to make an order.
+Sure, what would you like to order?
+I want to order
+Sure, what would you like to order?
+i want to order
+Sure, what would you like to order?
+I want to confirm my order
+Please enter 'confirm' to confirm your order.
+How to confirm my order?
+Please enter 'confirm' to confirm your order.
+confirm order
+Please enter 'confirm' to confirm your order.
+How to order?
+Please enter the code of the food. For orders with more than one item, please add a space in between (e.g. 0 1).
+How do I order?
+Please enter the code of the food. For orders with more than one item, please add a space in between (e.g. 0 1).
+how do i order
+Please enter the code of the food. For orders with more than one item, please add a space in between (e.g. 0 1).
+What have I ordered?
+Please enter 'myorder' to check your order
+Can I check my order?
+Please enter 'myorder' to check your order
+What did I order?
+Please enter 'myorder' to check your order
+Can I look at my order again?
+Please enter 'myorder' to check your order
+How do I check my order?
+Please enter 'myorder' to check your order
+How do I cancel my order?
+To cancel your order, please enter 'cancel' and the code of the food to be cancelled (e.g. cancel 0).
+How to cancel order?
+To cancel your order, please enter 'cancel' and the code of the food to be cancelled (e.g. cancel 0).
+I want to cancel order
+To cancel your order, please enter 'cancel' and the code of the food to be cancelled (e.g. cancel 0).
+Can I cancel the order?
+To cancel your order, please enter 'cancel' and the code of the food to be cancelled (e.g. cancel 0).
+I want to cancel
+To cancel your order, please enter 'cancel' and the code of the food to be cancelled (e.g. cancel 0).
+How to exit?
+Please enter 'x' to exit
+Can I exit?
+Please enter 'x' to exit
+Is there a delivery charge?
+No, delivery is free
+Is there delivery fee?
+No, delivery is free
+Have to pay for delivery?
+No, delivery is free
+Delivery have to pay?
+No, delivery is free
+Is delivery free?
+Yes, delivery is free
+Free delivery?
+Yes, free delivery
+
+
+
+
+
